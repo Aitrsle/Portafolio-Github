@@ -1,4 +1,4 @@
-**#Portafolio**
+# Portafolio
 Portafolio minimalista con algunos de mis proyectos mas importantes.
 <ul>
  <li>Pràctica Python : Ping Pong simple con Sprites --> https://github.com/La-Salle-Gracia-FP/25-26-python-game-Aitrsle</li>
