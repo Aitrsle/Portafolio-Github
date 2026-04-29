@@ -12,8 +12,8 @@ Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apa
 | :--- | :--- | :--- |
 | **Python** | Intermedi | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> |
 | **Java** | Intermedi | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> |
-| **HTML5** | Avançat | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> |
-| **CSS3** | Avançat | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/> |
+| **HTML5** | Intermedi | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> |
+| **CSS3** | Intermedi | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/> |
 
 ### 🔧 Eines & Entorns
 - **IDE's:** VS Code, IntelliJ IDEA
