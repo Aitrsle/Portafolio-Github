@@ -1,4 +1,4 @@
-# El Meu Portafoli Professional
+# 📋 Aitor Solé - El Meu Portafoli Professional
 
 ## 👋 Sobre mi
 Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apassionat per la tecnologia. El meu enfocament es basa en la creació de solucions eficients, netes i escalables, buscant sempre aprendre noves metodologies de treball.
