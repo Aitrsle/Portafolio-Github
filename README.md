@@ -1,26 +1,52 @@
-# Hola! Soc l'Aitor 👋
+# El Meu Portafoli Professional
 
-### About Me
-Soc un estudiant de Desenvolupament d'Aplicacions Multiplataforma (DAM) apassionat per la programació i la resolució de problemes. M'agrada aprendre noves tecnologies, crear solucions eficients i explorar el món del desenvolupament tant en backend com en frontend.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aitrsle&label=Vistes%20del%20perfil&color=0e75b6&style=flat" alt="Aitrsle" />
+</p>
 
-### Tecnologies i Eines
-- **Llenguatges:** Python, Java, HTML5, CSS3
-- **Frameworks/Llibreries:** Pygame
-- **Eines:** Git, GitHub, VS Code, Vercel
+## 👋 Sobre mi
+Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apassionat per la tecnologia. El meu enfocament es basa en la creació de solucions eficients, netes i escalables, buscant sempre aprendre noves metodologies de treball.
 
-### Projectes Destacats
+---
 
-#### 🏓 [Ping Pong amb Sprites](https://github.com/La-Salle-Gracia-FP/25-26-python-game-Aitrsle)
-Un joc clàssic recreat en Python utilitzant la llibreria Pygame per treballar la lògica de col·lisions i el moviment d'objectes.
+## 🛠️ Toolbox (Habilitats Tècniques)
 
-➡️https://github.com/La-Salle-Gracia-FP/25-26-python-game-Aitrsle
+### 💻 Llenguatges & Core
+| Llenguatge | Nivell | Icona |
+| :--- | :--- | :--- |
+| **Python** | Intermedi | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> |
+| **Java** | Intermedi | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> |
+| **HTML5** | Avançat | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> |
+| **CSS3** | Avançat | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/> |
 
-#### 🕹️ [4 en Ratlla (Terminal)](https://github.com/LSG-Programacio/0485-0487-practica-i-aitor-jordi/tree/main) 
-Implementació del popular joc d'estratègia per a la terminal, centrat en la gestió de matrius i lògica de joc en Java.
+### 🔧 Eines & Entorns
+- **IDE's:** VS Code, IntelliJ IDEA
+- **Control de versions:** Git & GitHub
+- **Deployment:** Vercel
+- **Disseny:** Paint & Figma (bàsic)
 
-➡️https://github.com/LSG-Programacio/0485-0487-practica-i-aitor-jordi/tree/main
+---
 
-#### 📄 [Currículum Web](https://github.com/LSG-markup-lang/0373-dam-pr1-Aitrsle) 
-Rèplica d'un currículum professional utilitzant estàndards web moderns per practicar el disseny i l'estructura de pàgines.
+## 🚀 Projectes Destacats
 
-➡️https://github.com/LSG-markup-lang/0373-dam-pr1-Aitrsle
+### 🏓 [Ping Pong amb Sprites](https://github.com/La-Salle-Gracia-FP/25-26-python-game-Aitrsle)
+> **Joc realitzat en Python amb Pygame.**
+- **Stack:** `Python`, `Pygame`.
+- **Key Feature:** Sistema de col·lisions i assets creats manualment.
+
+### 🎮 [4 en Ratlla (Terminal)](https://github.com/LSG-Programacio/0485-0487-practica-i-aitor-jordi/tree/main)
+> **Joc d'estratègia interactiu per consola.**
+- **Stack:** `Java SE`.
+- **Key Feature:** Algorisme de verificació de victòria en matrius.
+
+### 🌐 [Currículum Web Professional](https://github.com/LSG-markup-lang/0373-dam-pr1-Aitrsle)
+> **Maquetació web adaptativa del meu CV.**
+- **Stack:** `HTML5`, `CSS3`.
+- **Key Feature:** Desplegament automàtic a Vercel.
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aitrsle&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
