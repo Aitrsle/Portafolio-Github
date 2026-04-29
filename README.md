@@ -19,7 +19,7 @@ Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apa
 - **IDE's:** VS Code, IntelliJ IDEA
 - **Control de versions:** Git & GitHub
 - **Deployment:** Vercel
-- **Disseny:** Paint & Figma (bàsic)
+- **Disseny:** Paint
 
 ---
 
