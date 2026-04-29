@@ -1,9 +1,5 @@
 # El Meu Portafoli Professional
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aitrsle&label=Vistes%20del%20perfil&color=0e75b6&style=flat" alt="Aitrsle" />
-</p>
-
 ## 👋 Sobre mi
 Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apassionat per la tecnologia. El meu enfocament es basa en la creació de solucions eficients, netes i escalables, buscant sempre aprendre noves metodologies de treball.
 
@@ -43,10 +39,3 @@ Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apa
 > **Maquetació web adaptativa del meu CV.**
 - **Stack:** `HTML5`, `CSS3`.
 - **Key Feature:** Desplegament automàtic a Vercel.
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aitrsle&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
