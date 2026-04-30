@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=2ebc4f&height=200&section=header&text=Aitor%20Solé&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://img.shields.io/badge/Aitor_Solé-Portafoli_DAM-2ebc4f?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7f37" width="100%" height="100">
 </p>
 
 # 📋 Aitor Solé - El Meu Portafoli Professional
