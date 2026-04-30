@@ -39,3 +39,23 @@ Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apa
 > **Maquetació web adaptativa del meu CV.**
 - **Tecnologia:** `HTML5`, `CSS3`.
 - **Key Feature:** Desplegament automàtic a Vercel.
+
+### ⌨️ Mis Estadisticas de Github
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitrsle&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img title="GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aitrsle&theme=dark&hide_border=false" />
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aitrsle&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
+
+---
+<p align="center">
+  <i>Última actualització: Abril 2026</i>
+</p>
