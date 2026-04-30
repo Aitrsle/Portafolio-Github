@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=2ebc4f&height=200&section=header&text=Aitor%20Solé&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
 # 📋 Aitor Solé - El Meu Portafoli Professional
 
 ## 👋 Sobre mi
