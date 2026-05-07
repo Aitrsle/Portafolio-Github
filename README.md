@@ -44,7 +44,7 @@ Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apa
 - **Tecnologia:** `HTML5`, `CSS3`.
 - **Aspecte Clau:** Desplegament automàtic a Vercel.
 
-### ⌨️ Mis Estadisticas de Github
+### ⌨️ Les Meves Estadistiques de Github
 
 <table align="center">
   <tr border="none">
