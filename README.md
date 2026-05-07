@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Aitor_Solé-Portafoli_DAM-2ebc4f?style=for-the-badge&logo=github&logoColor=white&labelColor=FFD700" width="100%" height="100">
 </p>
 
-# 📋 El Meu Portafoli Professiona
+# 📋 El Meu Portafoli Professional
 
 ## 👋 Sobre mi
 Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apassionat per la tecnologia. El meu enfocament es basa en la creació de solucions eficients, netes i escalables, buscant sempre aprendre noves metodologies de treball.
