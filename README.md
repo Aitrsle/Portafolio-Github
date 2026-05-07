@@ -32,17 +32,17 @@ Sóc un estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** apa
 ### 🏓 [Ping Pong amb Sprites](https://github.com/La-Salle-Gracia-FP/25-26-python-game-Aitrsle)
 > **Joc realitzat en Python amb Pygame.**
 - **Tecnologia:** `Python`, `Pygame`.
-- **Key Feature:** Sistema de col·lisions i assets creats manualment.
+- **Aspecte Clau:** Sistema de col·lisions i assets creats manualment.
 
 ### 🎮 [4 en Ratlla (Terminal)](https://github.com/LSG-Programacio/0485-0487-practica-i-aitor-jordi/tree/main)
 > **Joc d'estratègia interactiu per consola.**
 - **Tecnologia:** `Java`.
-- **Key Feature:** Algorisme de verificació de victòria en matrius.
+- **Aspecte Clau:** Algorisme de verificació de victòria en matrius.
 
 ### 🌐 [Currículum Web Professional](https://github.com/LSG-markup-lang/0373-dam-pr1-Aitrsle)
 > **Maquetació web adaptativa del meu CV.**
 - **Tecnologia:** `HTML5`, `CSS3`.
-- **Key Feature:** Desplegament automàtic a Vercel.
+- **Aspecte Clau:** Desplegament automàtic a Vercel.
 
 ### ⌨️ Mis Estadisticas de Github
 
